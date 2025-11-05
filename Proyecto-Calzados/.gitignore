@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+*.env
+*.sqlite3
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# build/ static files
+staticfiles/
+media/
